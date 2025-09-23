@@ -14,6 +14,9 @@ superstore-analytics/
 ├── data/ # Sample dataset 
 │ └── Sample - Superstore.csv
 │
+│── notebooks/                     # Jupyter/Colab notebooks
+│   └── Portfolio_Project_Superstore_Sales_Marketing_Analytics.ipynb
+│
 ├── scripts/ # Python scripts
 │ └── portfolio_project_superstore_sales_&_marketing_analytics.py
 │
